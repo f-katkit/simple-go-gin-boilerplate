@@ -1,7 +1,7 @@
 package db
 
 import (
-	"github.com/f-katkit/simple-gin/forms"
+	"github.com/f-katkit/simple-go-gin-boilerplate/forms"
 )
 
 func autoMigration() {
