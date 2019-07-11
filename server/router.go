@@ -1,7 +1,7 @@
 package server
 
 import (
-	"github.com/f-katkit/simple-gin/controllers"
+	"github.com/f-katkit/simple-go-gin-boilerplate/controllers"
 	"github.com/gin-gonic/gin"
 )
 

@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/f-katkit/simple-gin/db"
-	"github.com/f-katkit/simple-gin/server"
+	"github.com/f-katkit/simple-go-gin-boilerplate/db"
+	"github.com/f-katkit/simple-go-gin-boilerplate/server"
 )
 
 func main() {

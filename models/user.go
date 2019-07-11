@@ -1,8 +1,8 @@
 package models
 
 import (
-	"github.com/f-katkit/simple-gin/db"
-	"github.com/f-katkit/simple-gin/forms"
+	"github.com/f-katkit/simple-go-gin-boilerplate/db"
+	"github.com/f-katkit/simple-go-gin-boilerplate/forms"
 )
 
 type User forms.User

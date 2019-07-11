@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 
-	"github.com/f-katkit/simple-gin/models"
+	"github.com/f-katkit/simple-go-gin-boilerplate/models"
 	"github.com/gin-gonic/gin"
 
 	"net/http"
